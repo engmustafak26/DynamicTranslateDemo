@@ -1,0 +1,6 @@
+@DynamicTranslateDemo_HostAddress = http://localhost:5048
+
+GET {{DynamicTranslateDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
